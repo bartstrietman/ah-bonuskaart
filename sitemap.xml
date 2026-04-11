@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ahbonuskaart.nl/index.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/faq.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-bonuskaart-vergeten.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-bonuskaart-scannen-tips.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-air-miles.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-bonus-voordelen.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-zelfscankassa.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-bonuskaart-aanvragen.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/blog-bonuskaart-kwijt.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/ah-bonuskaart-barcode-eric.jpg</loc>
+    <image:image>
+      <image:loc>https://ahbonuskaart.nl/ah-bonuskaart-barcode-eric.jpg</image:loc>
+      <image:title>Eric's AH Bonuskaart Barcode voor Scannen bij Albert Heijn – 2620700548794</image:title>
+      <image:caption>Scan deze AH Bonuskaart barcode van Eric voor directe korting en Air Miles bij Albert Heijn</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ahbonuskaart.nl/ah-bonuskaart-eric-volledig.jpg</loc>
+    <image:image>
+      <image:loc>https://ahbonuskaart.nl/ah-bonuskaart-eric-volledig.jpg</image:loc>
+      <image:title>Eric's Volledige Albert Heijn Bonuskaart – Mijn Albert Heijn Kaart</image:title>
+      <image:caption>Eric's persoonlijke AH Bonuskaart met kaartnummer 2620700548794 voor Bonus korting en Air Miles</image:caption>
+    </image:image>
+  </url>
+</urlset>
