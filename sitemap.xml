@@ -2,57 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://bonuskaart-nu.nl/index.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <loc>https://bonuskaart-nu.nl/</loc>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bonuskaart-nu.nl/ah-bonuskaart-barcode-eric.jpg</image:loc>
+      <image:title>Eric's AH Bonuskaart barcode 2620700548794 – scannen bij Albert Heijn voor korting</image:title>
+      <image:caption>Scan deze Bonuskaart barcode van Eric voor directe Bonus korting en Air Miles bij Albert Heijn</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonuskaart-nu.nl/ah-bonuskaart-eric-volledig.jpg</image:loc>
+      <image:title>Eric's volledige Albert Heijn Bonuskaart – kaartnummer 2620700548794</image:title>
+      <image:caption>Eric's persoonlijke AH Bonuskaart met kaartnummer 2620700548794 voor Bonus korting en Air Miles</image:caption>
+    </image:image>
   </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/faq.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-bonuskaart-vergeten.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-bonuskaart-scannen-tips.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-air-miles.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-bonus-voordelen.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-zelfscankassa.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-bonuskaart-aanvragen.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bonuskaart-nu.nl/blog-bonuskaart-kwijt.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <url><loc>https://bonuskaart-nu.nl/faq.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-bonuskaart-vergeten.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-bonuskaart-scannen-tips.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-air-miles.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-bonus-voordelen.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-zelfscankassa.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-bonuskaart-aanvragen.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonuskaart-nu.nl/blog-bonuskaart-kwijt.html</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
